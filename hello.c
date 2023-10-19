@@ -1,6 +1,6 @@
 /**
  * Author: Mashal Khan
- *         EMAIL
+ *         khanmashal156@gmail.com
  * Date: 20xx/xx/xx
  *
  * A simple hello world program in C
