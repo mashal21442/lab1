@@ -1,5 +1,5 @@
 /**
- * Author: NAME
+ * Author: Mashal Khan
  *         EMAIL
  * Date: 20xx/xx/xx
  *
